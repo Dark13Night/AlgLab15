@@ -1,0 +1,14 @@
+D:\Labs\Lab315\SingleRandomizer\bin\Debug\net6.0\SingleRandomizer.exe
+D:\Labs\Lab315\SingleRandomizer\bin\Debug\net6.0\SingleRandomizer.deps.json
+D:\Labs\Lab315\SingleRandomizer\bin\Debug\net6.0\SingleRandomizer.runtimeconfig.json
+D:\Labs\Lab315\SingleRandomizer\bin\Debug\net6.0\SingleRandomizer.dll
+D:\Labs\Lab315\SingleRandomizer\bin\Debug\net6.0\SingleRandomizer.pdb
+D:\Labs\Lab315\SingleRandomizer\obj\Debug\net6.0\SingleRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Lab315\SingleRandomizer\obj\Debug\net6.0\SingleRandomizer.AssemblyInfoInputs.cache
+D:\Labs\Lab315\SingleRandomizer\obj\Debug\net6.0\SingleRandomizer.AssemblyInfo.cs
+D:\Labs\Lab315\SingleRandomizer\obj\Debug\net6.0\SingleRandomizer.csproj.CoreCompileInputs.cache
+D:\Labs\Lab315\SingleRandomizer\obj\Debug\net6.0\SingleRandomizer.dll
+D:\Labs\Lab315\SingleRandomizer\obj\Debug\net6.0\refint\SingleRandomizer.dll
+D:\Labs\Lab315\SingleRandomizer\obj\Debug\net6.0\SingleRandomizer.pdb
+D:\Labs\Lab315\SingleRandomizer\obj\Debug\net6.0\SingleRandomizer.genruntimeconfig.cache
+D:\Labs\Lab315\SingleRandomizer\obj\Debug\net6.0\ref\SingleRandomizer.dll

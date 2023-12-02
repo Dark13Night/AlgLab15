@@ -1,0 +1,14 @@
+D:\Labs\Lab315\Lab315\bin\Debug\net6.0\Lab315.exe
+D:\Labs\Lab315\Lab315\bin\Debug\net6.0\Lab315.deps.json
+D:\Labs\Lab315\Lab315\bin\Debug\net6.0\Lab315.runtimeconfig.json
+D:\Labs\Lab315\Lab315\bin\Debug\net6.0\Lab315.dll
+D:\Labs\Lab315\Lab315\bin\Debug\net6.0\Lab315.pdb
+D:\Labs\Lab315\Lab315\obj\Debug\net6.0\Lab315.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Lab315\Lab315\obj\Debug\net6.0\Lab315.AssemblyInfoInputs.cache
+D:\Labs\Lab315\Lab315\obj\Debug\net6.0\Lab315.AssemblyInfo.cs
+D:\Labs\Lab315\Lab315\obj\Debug\net6.0\Lab315.csproj.CoreCompileInputs.cache
+D:\Labs\Lab315\Lab315\obj\Debug\net6.0\Lab315.dll
+D:\Labs\Lab315\Lab315\obj\Debug\net6.0\refint\Lab315.dll
+D:\Labs\Lab315\Lab315\obj\Debug\net6.0\Lab315.pdb
+D:\Labs\Lab315\Lab315\obj\Debug\net6.0\Lab315.genruntimeconfig.cache
+D:\Labs\Lab315\Lab315\obj\Debug\net6.0\ref\Lab315.dll

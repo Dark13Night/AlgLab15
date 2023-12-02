@@ -1,0 +1,14 @@
+D:\Labs\Lab315\MyLogger\bin\Debug\net6.0\MyLogger.exe
+D:\Labs\Lab315\MyLogger\bin\Debug\net6.0\MyLogger.deps.json
+D:\Labs\Lab315\MyLogger\bin\Debug\net6.0\MyLogger.runtimeconfig.json
+D:\Labs\Lab315\MyLogger\bin\Debug\net6.0\MyLogger.dll
+D:\Labs\Lab315\MyLogger\bin\Debug\net6.0\MyLogger.pdb
+D:\Labs\Lab315\MyLogger\obj\Debug\net6.0\MyLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Lab315\MyLogger\obj\Debug\net6.0\MyLogger.AssemblyInfoInputs.cache
+D:\Labs\Lab315\MyLogger\obj\Debug\net6.0\MyLogger.AssemblyInfo.cs
+D:\Labs\Lab315\MyLogger\obj\Debug\net6.0\MyLogger.csproj.CoreCompileInputs.cache
+D:\Labs\Lab315\MyLogger\obj\Debug\net6.0\MyLogger.dll
+D:\Labs\Lab315\MyLogger\obj\Debug\net6.0\refint\MyLogger.dll
+D:\Labs\Lab315\MyLogger\obj\Debug\net6.0\MyLogger.pdb
+D:\Labs\Lab315\MyLogger\obj\Debug\net6.0\MyLogger.genruntimeconfig.cache
+D:\Labs\Lab315\MyLogger\obj\Debug\net6.0\ref\MyLogger.dll
